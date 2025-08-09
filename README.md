@@ -11,9 +11,9 @@ The network outputs probabilities for the next move (Rock, Paper, or Scissors).
 ## Usage
 To use the pretrained model, load rpsnn.pth into your PyTorch RPSNet model.
 
-This model is just a demo — training your own model with your data is recommended to improve performance and adapt to your style.
+This model is just a demo — training your own model with your data is recommended to improve performance and adapt to your style. (i.e just run RPS_NN.ipynb on google colab so it gets trained by yourself)
 
-Scripts for training and evaluation can be placed inside the scripts/ folder.
+Scripts for training and evaluation are inside the scripts/ folder.
 
 ## Requirements
 Python 3.x
