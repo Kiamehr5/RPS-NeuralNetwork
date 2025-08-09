@@ -22,6 +22,7 @@ PyTorch
 ``pip install torch torchvision``
 
 ## Video Demo (Done in google colab)
+https://github.com/user-attachments/assets/8022777e-da81-450a-a67c-cd38450a4edd
 
 Feel free to explore, train, and experiment! If you have questions or improvements, email me at kiamehr13922014@gmail.com
 
